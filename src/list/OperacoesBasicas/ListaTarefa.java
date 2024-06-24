@@ -1,8 +1,5 @@
 package list.OperacoesBasicas;
 
-import com.sun.jdi.PathSearchingVirtualMachine;
-
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
